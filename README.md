@@ -45,7 +45,7 @@
       <br>React
     </td>
     <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=vue" width="48" height="48" alt="Vue" />
+      <img src="https://skillicons.dev/icons?i=vue" width="65" height="65" alt="Vue" />
       <br>Vue
     </td>
     <td align="center" width="96">
