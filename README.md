@@ -115,3 +115,29 @@
     </td>
   </tr>
 </table>
+
+# 👋 Hi, I'm Kai Matsuda!  
+
+🚀 **Full-Stack Developer | Blockchain Enthusiast | Open Source Contributor**  
+
+### 💡 About Me  
+I'm a passionate **full-stack developer** with expertise in building scalable web and mobile applications. I love working with modern technologies to create **efficient, maintainable, and high-performance** solutions.  
+
+### ⚡ Tech Stack  
+#### **Frontend**  
+- **React, Vue, React Native, Flutter**  
+- **Tailwind CSS, MUI**  
+
+#### **Backend**  
+- **Node.js, Python, Django, C#**  
+- **GraphQL, TypeScript**  
+
+#### **Databases & Cloud**  
+- **PostgreSQL, MySQL, MongoDB**  
+- **AWS**  
+
+#### **DevOps & Tools**  
+- **Git, GitHub**  
+
+### 📫 Get in Touch  
+- GitHub: https://github.com/Kai29111
