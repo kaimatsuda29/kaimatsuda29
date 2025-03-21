@@ -134,7 +134,7 @@ I'm a passionate **full-stack developer** with expertise in building scalable we
 
 #### **Databases & Cloud**  
 - **PostgreSQL, MySQL, MongoDB**  
-- **AWS**  
+- **AWS**
 
 #### **DevOps & Tools**  
 - **Git, GitHub**  
