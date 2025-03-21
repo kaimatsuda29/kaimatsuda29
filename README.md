@@ -36,7 +36,7 @@
 ![](https://img.shields.io/badge/Cloud-Digital_Ocean-informational?style=flat&logo=digitalocean&logoColor=white&color=3bac3a)
 ![](https://img.shields.io/badge/Cloud-AWS-informational?style=flat&logo=Amazon&logoColor=white&color=3bac3a)
 
-<h2 align="left" id="macropower-tech">Main Tech</h2>
+<h2 align="left" id="macropower-tech">Favorite Tech</h2>
 
 <table align="center">
   <tr>
