@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://github.com/Kai29111"><img
+  <a href="https://github.com/kaimatsuda29"><img
       src="https://readme-typing-svg.herokuapp.com/?lines=Blockchain%20developer;Web%20and%20mobile%20master;Senior%20Web3%20Engineer;Always%20learning%20new%20tech&font=Pacifico&center=true&width=650&height=120&color=58a6ff&vCenter=true&size=45%22"></a>
 </p>
 
@@ -116,14 +116,17 @@
   </tr>
 </table>
 
+---
+
 # 👋 Hi, I'm Kai Matsuda!  
 
-🚀 **Full-Stack Developer | Blockchain Enthusiast | Open Source Contributor**  
+🚀 **Full-Stack Developer | Blockchain Expert | Mobile App Developer | Open Source Contributor**  
 
 ### 💡 About Me  
-I'm a passionate **full-stack developer** with expertise in building scalable web and mobile applications. I love working with modern technologies to create **efficient, maintainable, and high-performance** solutions.  
+I'm a passionate **full-stack developer** with over **8 years of experience** in **web development** and **4+ years of experience** in **mobile app development**. Over the last 4 years, I've specialized in **blockchain** development and have successfully built decentralized applications (dApps), smart contracts, and integrated blockchain solutions. My goal is to deliver **efficient**, **scalable**, and **maintainable** solutions that push the boundaries of what’s possible in both the web and mobile development space.
 
 ### ⚡ Tech Stack  
+
 #### **Frontend**  
 - **React, Vue, React Native, Flutter**  
 - **Tailwind CSS, MUI**  
@@ -139,5 +142,65 @@ I'm a passionate **full-stack developer** with expertise in building scalable we
 #### **DevOps & Tools**  
 - **Git, GitHub**  
 
+---
+
+### **Blockchain Expertise**  
+With **4+ years of experience** in blockchain development, I have a solid understanding of **smart contracts**, **decentralized applications**, and **blockchain architecture**. I am passionate about developing secure and scalable blockchain solutions for a variety of use cases, including DeFi, NFTs, and more.
+
+#### **Smart Contract Development**  
+- **Solidity** (Ethereum smart contracts)  
+- **Rust** (Solana, Near Protocol)  
+- **Vyper** (Ethereum smart contract language)
+
+#### **Blockchain Platforms**  
+- **Ethereum** (DeFi, NFTs)  
+- **Solana** (high-performance blockchain)  
+- **Polkadot** (cross-chain interoperability)  
+- **Binance Smart Chain** (DeFi and dApps)  
+- **Cardano** (proof of stake blockchain)
+
+#### **Web3 Technologies**  
+- **Web3.js, Ethers.js** (Ethereum JavaScript libraries)  
+- **Moralis** (Web3 backend platform)  
+- **IPFS** (decentralized file storage)  
+- **Chainlink** (decentralized oracles)
+
+#### **Blockchain Development Tools**  
+- **Truffle Suite** (Ethereum development environment)  
+- **Hardhat** (Ethereum development framework)  
+- **Ganache** (personal blockchain for Ethereum)  
+- **Metamask** (Ethereum wallet integration)
+
+#### **Decentralized Protocols**  
+- **The Graph** (decentralized data querying for dApps)  
+- **Polygon** (Layer-2 scaling for Ethereum)  
+- **Uniswap / SushiSwap** (decentralized exchanges)
+
+---
+
+### **Web Development Expertise**  
+With **8+ years of experience** in web development, I've worked on a variety of web applications, from small projects to large-scale enterprise systems, ensuring they are performant, scalable, and user-friendly.
+
+- **HTML, CSS, JavaScript** (Core web technologies)
+- **React, Vue, Angular** (Frontend frameworks)
+- **Node.js, Express** (Backend technologies)
+- **RESTful APIs, GraphQL** (API development)
+- **SQL, NoSQL** (Database management)
+- **AWS, GCP** (Cloud infrastructure)
+
+---
+
+### **Mobile App Development Expertise**  
+With **4+ years of experience** in mobile app development, I have built both **native** and **cross-platform** mobile applications that deliver seamless experiences to users.
+
+- **React Native**  
+- **Flutter**  
+- **Swift, Kotlin** (Native app development)
+- **Firebase, AWS Mobile Services** (Backend solutions)
+
+---
+
 ### 📫 Get in Touch  
-- GitHub: https://github.com/kaimatsuda29
+- GitHub: [https://github.com/kaimatsuda29](https://github.com/kaimatsuda29)
+
+---
